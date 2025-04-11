@@ -1,6 +1,6 @@
 # 🪙 CryptoVerse - Modern Cryptocurrency Tracker
 
-![CryptoVerse Banner](https://github.com/SPYD3ER-bat/CryptoVerse/blob/master/Screenshots/LandingPage.jpg)
+![CryptoVerse Banner](https://github.com/SPYD3ER-bat/CryptoVerse/blob/master/Screenshots/Header.jpg)
 
 <p align="center">
   <a href="https://crypto-hunter.netlify.app/">
@@ -16,7 +16,7 @@
 
 CryptoVerse is a comprehensive cryptocurrency tracking application built with modern web technologies. Track real-time prices, analyze market trends, and visualize historical data for thousands of cryptocurrencies - all in one sleek, intuitive interface.
 
-![Dashboard Preview](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)
+![Dashboard Preview](https://github.com/SPYD3ER-bat/CryptoVerse/blob/master/Screenshots/LandingPage1.jpg)
 
 ## 🚀 Features
 
@@ -42,12 +42,12 @@ CryptoVerse is a comprehensive cryptocurrency tracking application built with mo
 ## 📊 Demo & Screenshots
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png" width="90%" alt="Homepage">
+  <img src="https://github.com/SPYD3ER-bat/CryptoVerse/blob/master/Screenshots/CryptoCoins.jpg" width="90%" alt="CryptoCurrency">
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png" width="45%" alt="Coin Details">
-  <img src="https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png" width="45%" alt="Market Data">
+  <img src="https://github.com/SPYD3ER-bat/CryptoVerse/blob/master/Screenshots/BitcoininDollor.jpg" width="45%" alt="Coin Details">
+  <img src="https://github.com/SPYD3ER-bat/CryptoVerse/blob/master/Screenshots/TypesofCurrencyListed.jpg" width="45%" alt="CurrencyListed">
 </p>
 
 ## 🔍 Live Preview
@@ -118,9 +118,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact & Support
 
-- **Creator**: [Your Name](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Creator**: [Om Gawande](https://github.com/SPYD3ER-bat)
+- **Email**: om.sudhir.gawande@gmail.com
+- **Personal Portfolio**: [Om Gawande](https://omdevportfolio.framer.website/)
 
 If you find this project useful, please consider giving it a ⭐️!
 
